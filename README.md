@@ -17,7 +17,7 @@ O objetivo do projeto é responder questões disponíveis em juízes online sobr
 A partir dos arquivos de testes `teste.txt` presentes em cada diretório, os seguintes resultados são apresentados
 
 ### Bee 1310 - Lucro
-![1310](/screenshots/lucro.png)
+![1310](/screenshots/1310.png)
 
 ### Bee 1892 - Calouro Vence Veterano?
 ![1892](/screenshots/1892.png)
@@ -44,3 +44,4 @@ Para acessar os enunciados é necessário criar um login na plataforma Beecrowd,
 
 ## Apresentações de resoluções
 Exemplificações em vídeo de aplicações entre os exercicios resolvidos.
+- [Bee 1310 - Lucro](https://drive.google.com/file/d/1jSHzbD-Ms4My1RPk8Bm_QQdwO1oCOzro/view)

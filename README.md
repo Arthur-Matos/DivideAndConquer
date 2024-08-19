@@ -19,6 +19,9 @@ A partir dos arquivos de testes `teste.txt` presentes em cada diretório, os seg
 ### Bee 1310 - Lucro
 ![1310](/screenshots/lucro.png)
 
+### Bee 1892 - Calouro Vence Veterano?
+![1892](/screenshots/1892.png)
+
 ## Instalação 
 **Linguagem**: C<br>
 Linguagem: C
@@ -37,7 +40,7 @@ Cada questão foi separada em uma pasta diferente e para executar os códigos de
 Para acessar os enunciados é necessário criar um login na plataforma Beecrowd, os links de cada enunciado estão presentes em:
 
 - [Bee 1310 - Lucro](https://judge.beecrowd.com/pt/problems/view/1310)
-- []()
+- [Bee 1892 - Calouro Vence Veterano?](https://judge.beecrowd.com/pt/problems/view/1892)
 
 ## Apresentações de resoluções
 Exemplificações em vídeo de aplicações entre os exercicios resolvidos.

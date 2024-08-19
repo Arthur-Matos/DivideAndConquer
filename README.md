@@ -22,6 +22,9 @@ A partir dos arquivos de testes `teste.txt` presentes em cada diretório, os seg
 ### Bee 1892 - Calouro Vence Veterano?
 ![1892](/screenshots/1892.png)
 
+### Bee 1088 - Bolhas e Baldes
+![1892](/screenshots/1088.png)
+
 ## Instalação 
 **Linguagem**: C<br>
 Linguagem: C
@@ -41,6 +44,7 @@ Para acessar os enunciados é necessário criar um login na plataforma Beecrowd,
 
 - [Bee 1310 - Lucro](https://judge.beecrowd.com/pt/problems/view/1310)
 - [Bee 1892 - Calouro Vence Veterano?](https://judge.beecrowd.com/pt/problems/view/1892)
+- [Bee 1088 - Bolhas e Baldes](https://judge.beecrowd.com/pt/problems/view/1088)
 
 ## Apresentações de resoluções
 Exemplificações em vídeo de aplicações entre os exercicios resolvidos.

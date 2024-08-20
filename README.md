@@ -48,3 +48,5 @@ Para acessar os enunciados é necessário criar um login na plataforma Beecrowd,
 
 ## Apresentações de resoluções
 Exemplificações em vídeo de aplicações entre os exercicios resolvidos.
+
+- [Bee 1892 - Calouro Vence Veterano? e Bee 1088 - Bolhas e Baldes](https://unbbr.sharepoint.com/sites/Contaprivada/Documentos%20Compartilhados/General/Recordings/Reuni%C3%A3o%20em%20_General_-20240819_210726-Grava%C3%A7%C3%A3o%20de%20Reuni%C3%A3o.mp4?web=1&referrer=Teams.TEAMS-ELECTRON&referrerScenario=MeetingChicletGetLink.view)

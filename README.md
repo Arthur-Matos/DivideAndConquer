@@ -25,6 +25,9 @@ A partir dos arquivos de testes `teste.txt` presentes em cada diretório, os seg
 ### Bee 1088 - Bolhas e Baldes
 ![1892](/screenshots/1088.png)
 
+### Bee 1295 - Problema dos Pares Mais Próximos
+![1295](/screenshots/1295.png)
+
 ## Instalação 
 **Linguagem**: C<br>
 Linguagem: C
@@ -39,12 +42,22 @@ Cada questão foi separada em uma pasta diferente e para executar os códigos de
     ./n_questao < teste.txt
 ```
 
+### Uso para 1295
+Para a questão 1295 é necessário rodar com o comando -lm para linkar a biblioteca math.h
+
+```sh
+    cd Questoes/1295/
+    gcc -o 1295 1295.c -lm
+    ./1295 < teste.txt
+```
+
 ## Outros
 Para acessar os enunciados é necessário criar um login na plataforma Beecrowd, os links de cada enunciado estão presentes em:
 
 - [Bee 1310 - Lucro](https://judge.beecrowd.com/pt/problems/view/1310)
 - [Bee 1892 - Calouro Vence Veterano?](https://judge.beecrowd.com/pt/problems/view/1892)
 - [Bee 1088 - Bolhas e Baldes](https://judge.beecrowd.com/pt/problems/view/1088)
+- [Bee 1295 - Problema dos Pares Mais Próximos](https://judge.beecrowd.com/pt/problems/view/1088)
 
 ## Apresentações de resoluções
 Exemplificações em vídeo de aplicações entre os exercicios resolvidos.
